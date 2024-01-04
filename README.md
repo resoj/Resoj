@@ -1,1 +1,1 @@
-My name is Jose Cruz. I am a student in the University of Kentucky studying Computer Science and currently working on getting familiar with machine learning.
+My name is Jose Cruz. I am a student in the University of Kentucky studying Computer Science. I am expected to graduate in May 2024.
