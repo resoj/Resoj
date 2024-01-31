@@ -1,1 +1,5 @@
-My name is Jose Cruz. I am a student at the University of Kentucky studying Computer Science. I am expected to graduate in May 2024.
+**Hi, I'm José Cruz**
+
+-  🐍 I primarily code in the back-end using Python
+-  ☕ Currently learning Web Dev with JavaScript and React
+-  🔴 Seeking a back-end software dev position where I can make contributions while expanding on my craft
